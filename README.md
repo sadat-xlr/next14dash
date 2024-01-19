@@ -15,9 +15,11 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 - usePathname()
 
-**postgress setu**
+**postgress setup**
 
 - using @vercel/postgres the database is created 
+- querying in the database should be inside server component
+- for executing multiple queryy at same time need to use Promise.all
 
 
 ### Explore These Cool packages
