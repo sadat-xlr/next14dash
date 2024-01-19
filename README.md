@@ -4,11 +4,13 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
-**optimize with next package** 
+**optimize with nextjs** 
 
 - next/image
 - next/font
 - next/link
+- next/navigation
+
 
 ### Explore These Cool packages
 
