@@ -10,10 +10,12 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - next/font
 - next/link
 - next/navigation
+- next/cache
 
 **necessary hooks**
 
 - usePathname()
+- noStore() - used for caching fetched data 
 
 **postgress setup**
 
