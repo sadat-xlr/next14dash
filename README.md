@@ -16,3 +16,6 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 [https://carbon.now.sh/](https://carbon.now.sh/)
 [https://sanity.io/](https://sanity.io/)
 [https://syntax.fm/](https://syntax.fm/)
+
+### study needed
+[https://nextjs.org/showcase#:~:text=Discover%20what%27s-,possible,-How%20to%20build](https://nextjs.org/showcase#:~:text=Discover%20what%27s-,possible,-How%20to%20build)
