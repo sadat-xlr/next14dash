@@ -13,3 +13,6 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 ### Explore These Cool packages
 
 [https://hyper.is/](https://hyper.is/)
+[https://carbon.now.sh/](https://carbon.now.sh/)
+[https://sanity.io/](https://sanity.io/)
+[https://syntax.fm/](https://syntax.fm/)
