@@ -11,6 +11,10 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - next/link
 - next/navigation
 
+**necessary hooks**
+
+- usePathname()
+
 
 ### Explore These Cool packages
 
