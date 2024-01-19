@@ -15,6 +15,10 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 - usePathname()
 
+**postgress setu**
+
+- using @vercel/postgres the database is created 
+
 
 ### Explore These Cool packages
 
